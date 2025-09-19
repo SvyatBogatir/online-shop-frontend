@@ -1,0 +1,45 @@
+:root {
+    background-color: #3E7597;
+    color: #000000;
+}
+
+.title {
+    text-align: center;
+    margin-top: 226px;
+    margin-bottom: 60px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    height: 57px;
+    width: 391px;
+    margin-bottom: 38px;
+}
+
+a {
+    color: #FFE100;
+    cursor: pointer;
+}
+
+p {
+    font-size: 14px;
+}
+
+button {
+    margin-top: 38px;
+    height: 50px;
+    width: 184px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+}
+
+button:hover {
+    border-radius: 20px;
+}
